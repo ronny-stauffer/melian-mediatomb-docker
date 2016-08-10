@@ -55,6 +55,7 @@ Within the container:
     <!--
        <upnp-string-limit>101</upnp-string-limit>
     -->
+    <ip>10.13.1.193</ip>
     <port>50500</port>
     ...
 
